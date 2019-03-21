@@ -125,6 +125,7 @@
                                         <constraint firstItem="E05-Fz-4hl" firstAttribute="top" secondItem="IBH-0y-trZ" secondAttribute="topMargin" id="eHP-o1-GXJ"/>
                                         <constraint firstItem="MHP-Dn-40j" firstAttribute="bottom" secondItem="IBH-0y-trZ" secondAttribute="bottomMargin" constant="10" id="gBj-Fe-LH7"/>
                                         <constraint firstItem="E05-Fz-4hl" firstAttribute="top" secondItem="IBH-0y-trZ" secondAttribute="topMargin" id="lIV-7X-KeX"/>
+                                        <constraint firstItem="ObF-ch-k8S" firstAttribute="top" secondItem="hXB-v7-ndy" secondAttribute="bottom" constant="4" id="tu0-vz-nZx"/>
                                     </constraints>
                                 </tableViewCellContentView>
                                 <connections>
